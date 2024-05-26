@@ -1,2 +1,2 @@
 # eznest
-Roommate Life Management App
+Roommate Life Management App (Work in Progress)
